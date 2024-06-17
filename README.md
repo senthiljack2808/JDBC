@@ -29,8 +29,6 @@ PreparedStatement :
 
 Used to avoid sql injection attacks from hackers.
 
-
-
 CallableStatement:
 
 Used for calling stored procedure from db.
